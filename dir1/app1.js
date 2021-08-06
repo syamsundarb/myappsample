@@ -4,6 +4,5 @@
 </head>
 <body>
 this is my app.
-login
 </body>
 </html>
